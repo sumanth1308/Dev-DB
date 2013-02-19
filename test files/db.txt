@@ -1,4 +1,4 @@
-ModelNumber,Manufacturer,OperatingSystem,Talktime,Touch,SecondaryCamera,GPS,Thickness
+Model,Manufacturer,OperatingSystem,Talktime,Touch,SecondaryCamera,GPS,Thickness
 samsung 5141,samsung,Windows Phone 7,7,False,False,True,12
 sony 4195,sony,symbian,9,False,False,False,13
 htc 3469,htc,Meego,14,False,False,False,13
